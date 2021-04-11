@@ -6,13 +6,6 @@
   var $ = window.jQuery;
 
   const firebaseConfig = {
-    apiKey: "AIzaSyCLi48R3EDdI2dH8xRLRN58tIJYa-RmXUQ",
-    authDomain: "coffeerun-493b2.firebaseapp.com",
-    projectId: "coffeerun-493b2",
-    storageBucket: "coffeerun-493b2.appspot.com",
-    messagingSenderId: "956061911687",
-    appId: "1:956061911687:web:d1b616192838a0773f8622",
-    measurementId: "G-JSP1LD9FPX"
   };
 
   class FireBaseDataStore {
